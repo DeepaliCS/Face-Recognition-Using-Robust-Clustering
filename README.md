@@ -10,8 +10,8 @@ The robust clustering strategy was derived from https://link.springer.com/chapte
 
 1. Clone repository
 2. Have a valid license to run MATLAB
-3. Set an image in the file path ..
-4. Run `Main script`
+3. Set an image in the file path (image) set in the `MainScript.m` or set a new file path to your image
+4. Run `MainScript.m`
 
 ## Applications & Potential Contributions
 

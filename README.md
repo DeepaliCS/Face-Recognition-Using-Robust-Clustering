@@ -4,7 +4,7 @@ This project was created as part of my final year project (technical solution) a
 
 Incorporating an aspect of artificial intelligence was part of the this degree, therefore Dr Stephen Swift, a greatly respected researcher and lecturer in this field, was the supervisor for this project.
 
-The robust clustering strategy was derived from https://link.springer.com/chapter/10.1007%2F11875741_1. The technical solution was created using MATLAB and their trained image recognition NN. Previous attempts at reaching the optimal goal for this project include; using image segmentation methods including Otsu, Hough and ..
+The robust clustering strategy was derived from https://link.springer.com/chapter/10.1007%2F11875741_1. The technical solution was created using MATLAB and their trained image recognition NN. Previous attempts at reaching the optimal goal for this project include; using image segmentation methods including Otsu, Hough and Watershed.
 
 ## Installation
 
